@@ -133,7 +133,7 @@ function print_table()
                     menu
                     exit 1
                 fi
-                ;;
+                ;;\ 
 
             m)
                 if ! [[ ${opts['m']} =~ $re ]]; then
