@@ -4,7 +4,6 @@
 # Lia Cardoso, 107548
 
 
-#PROBLEMA A RESOLVER --------> leitura dos argumetos, não está a ler o primeiro argumento (segundos) -----> problema em validate_argumments
 #arrays para guardar valores
 declare -A rchar_ar 
 declare -A wchar_ar
